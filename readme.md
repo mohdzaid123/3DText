@@ -1,4 +1,4 @@
-# Three.js 3D Text
+# Three.js 3D Text hacktoberfest -accepted
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
